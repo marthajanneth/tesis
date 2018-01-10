@@ -1,6 +1,3 @@
 prueba de commit
 
-
-esta es una nueva linea
-
-desde el pc
+desde el pc nueva linea
